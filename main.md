@@ -1,6 +1,6 @@
 ```
 sequenceDiagram
-Alice->>John: Hello John, how are you?
+Alice->>John123: Hello John, how are you?
 loop Healthcheck
     John->>John: Fight against hypochondria
 end
