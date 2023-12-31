@@ -2,7 +2,7 @@
 sequenceDiagram
 秦->>魏: Hello John, how are you?
 loop Healthcheck
-    John->>John: Fight against hypochondria
+    魏->>魏: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
 魏-->>秦: Great!
